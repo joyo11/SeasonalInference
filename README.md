@@ -1,4 +1,4 @@
-# Deep Learning for Computer Vision: Landsat Image Classification
+# Deep Learning for Computer Vision: Seasonal Inference Landsat Image Classification
 
 ## Overview
 In this project, I developed a model for classifying **Landsat 8** satellite images based on their corresponding month. The goal was to use deep learning techniques to process and analyze geospatial data to recognize patterns in satellite imagery. The model was built using the **ResNet18** architecture, fine-tuned for the specific task of multi-class classification using **Landsat OLI (Operational Land Imager)** imagery.
